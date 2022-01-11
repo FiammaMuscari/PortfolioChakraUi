@@ -23,7 +23,7 @@ const NavbarName = (props) => {
           onClick={goToTop ? () => goToTopFunction() : null}
           cursor={cursorPointer ? () => 'pointer' : null}
         >
-          Nahuel Márquez
+          Fiamma Muscari
         </Text>
       </Box>
     </>

@@ -26,17 +26,17 @@
   "EmailCopiedClipboard": {
     "1": "Gmail address copied to your clipboard."
   },
-  "ToDoAppType": {
-    "1": "Management"
+  "PokeAppType": {
+    "1": "Apis"
   },
-  "ToDoAppTitle": {
-    "1": "Task application"
+  "PokeAppTitle": {
+    "1": "Pokedex"
   },
   "MyProjects": {
-    "1": "My projects"
+    "1": " "
   },
   "MyLastProjects": {
-    "1": "These are my latest projects."
+    "1": "Mis proyectos"
   },
   "SeeMoreProjects": {
     "1": "See more projects"
@@ -45,7 +45,7 @@
     "1": "About me"
   },
   "MySkills": {
-    "1": "My skills"
+    "1": " "
   },
   "CurrentlySkills": {
     "1": "I am currently working with the following technologies:"
@@ -60,7 +60,7 @@
     "1": "I'm a FrontEnd Developer Junior.\n "
   },
   "AboutMeText": {
-    "1": "Doing the final project of the Programmer Analyst career at ORT Uruguay (CEI). I'm currently working on WIS, it is my first experience as a developer. \n I really enjoy teamwork and I'm always willing to learn. \n Although I currently don't have much time, I try to carry out personal projects that allow me to gain experience and improve my skills."
+    "1": "I am in the final stages of the Full Stack Developer diploma at the UTN. I am currently looking for my first job in IT.\n I really enjoy teamwork and I am always willing to learn.\n I also try to carry out personal projects that allow me to gain experience and improve my skills.\n"
   },
   "Languages": {
     "1": "Spanish - English"
@@ -68,10 +68,22 @@
   "ContactMeHere": {
     "1": "Contact me here:"
   },
-  "CryptoAppType": {
-    "1": "Information"
+  "PorfolyAppType": {
+    "1": "First Portfolio"
   },
-  "CryptoAppTitle": {
-    "1": "List of cryptocurrencies"
+  "PortfolyAppTitle": {
+    "1": "Portfolio"
+  },
+  "MovieAppType": {
+    "1": "TMDB"
+  },
+  "MovieAppTitle": {
+    "1": "Movie App"
+  },
+  "MarioAppType": {
+    "1": "Kaboom.js"
+  },
+  "MarioAppTitle": {
+    "1": "Super Mario Bros"
   }
 }

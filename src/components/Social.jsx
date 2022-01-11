@@ -26,14 +26,14 @@ const Social = () => {
         isClosable: true,
       });
     }
-    navigator.clipboard.writeText('nahuelmarquez12@gmail.com');
+    navigator.clipboard.writeText('fiammamuscari@gmail.com');
   };
 
   return (
     <>
       <Flex as="section">
         <a
-          href="https://github.com/en44no"
+          href="https://github.com/FiammaMuscari"
           target="_blank"
           rel="noreferrer"
           title="GitHub"
@@ -43,7 +43,7 @@ const Social = () => {
           </IconButton>
         </a>
         <a
-          href="https://www.linkedin.com/in/nahuelmarquez/"
+          href="https://www.linkedin.com/in/fiamma-muscari/"
           target="_blank"
           rel="noreferrer"
           title="Linkedin"
@@ -61,7 +61,7 @@ const Social = () => {
           <UilEnvelopeAdd size="1.7rem" />
         </IconButton>
         <a
-          href="https://api.whatsapp.com/send/?phone=59894018406&text=%C2%A1Hola!+Te+estoy+contactando+luego+de+ver+tu+p%C3%A1gina+web."
+          href="https://api.whatsapp.com/send/?phone=5492236694274&text=%C2%A1Hola!+Te+estoy+contactando+luego+de+ver+tu+p%C3%A1gina+web."
           target="_blank"
           rel="noreferrer"
           title="Whatsapp"

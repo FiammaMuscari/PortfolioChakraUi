@@ -1,13 +1,11 @@
 import React from 'react';
 import {
-  SiCsharp,
   SiReact,
   SiJavascript,
   SiHtml5,
   SiCss3,
   SiGit,
   SiMicrosoftsqlserver,
-  SiAngular,
 } from 'react-icons/si';
 import TechBox from './TechBox';
 import GridSkills from './GridSkills';
@@ -15,18 +13,6 @@ import GridSkills from './GridSkills';
 const CurrentlySkills = () => (
   <>
     <GridSkills sectionText="CurrentlySkills.1">
-      <TechBox
-        techIcon={SiAngular}
-        techColor="#d6002f"
-        title="Angular"
-        link="https://angular.io/"
-      />
-      <TechBox
-        techIcon={SiCsharp}
-        techColor="#953DAC"
-        title="CSharp"
-        link="https://docs.microsoft.com/en-us/dotnet/csharp/"
-      />
       <TechBox
         techIcon={SiReact}
         techColor="#61DAFB"

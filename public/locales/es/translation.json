@@ -3,7 +3,7 @@
     "1": "Hola, soy"
   },
   "FrontEndDev": {
-    "1": "Desarrollador FrontEnd"
+    "1": "Desarrolladora FrontEnd"
   },
   "DownloadCV": {
     "1": "Descargar CV"
@@ -26,17 +26,17 @@
   "EmailCopiedClipboard": {
     "1": "Dirección de Gmail copiada a tu portapapeles."
   },
-  "ToDoAppType": {
-    "1": "Gestión"
+  "PokeAppType": {
+    "1": "Apis"
   },
-  "ToDoAppTitle": {
-    "1": "Aplicación de tareas"
+  "PokeAppTitle": {
+    "1": "Pokedex"
   },
   "MyProjects": {
-    "1": "Mis proyectos"
+    "1": " "
   },
   "MyLastProjects": {
-    "1": "Estos son mis últimos proyectos."
+    "1": "Mis proyectos."
   },
   "SeeMoreProjects": {
     "1": "Ver más proyectos"
@@ -45,7 +45,7 @@
     "1": "Sobre mí"
   },
   "MySkills": {
-    "1": "Mis habilidades"
+    "1": " "
   },
   "CurrentlySkills": {
     "1": "Actualmente estoy trabajando con las siguientes tecnologías:"
@@ -57,10 +57,10 @@
     "1": "Contáctame"
   },
   "FrontEndDevJr": {
-    "1": "Soy desarrollador FrontEnd Junior."
+    "1": "Soy desarrolladora FrontEnd Junior."
   },
   "AboutMeText": {
-    "1": "Cursando el proyecto final de la carrera Analista Programador de ORT Uruguay (CEI). Actualmente estoy trabajando en WIS, es mi primera experiencia como desarrollador. \n Disfruto mucho del trabajo en equipo y siempre estoy dispuesto a aprender. \n A pesar de que actualmente no tengo mucho tiempo, intento realizar proyectos personales que me permitan ganar experiencia y mejorar mis habilidades."
+    "1": "Me encuentro cursando las últimas instancias de la diplomatura Full Stack Developer de la UTN. Actualmente estoy buscando mi primer trabajo en IT. \n Disfruto mucho el trabajo en equipo y siempre estoy dispuesta a aprender.\n Además trato de llevar a cabo proyectos personales que me permitan ganar experiencia y mejorar mis habilidades.\n"
   },
   "Languages": {
     "1": "Español - Inglés"
@@ -68,10 +68,22 @@
   "ContactMeHere": {
     "1": "Contáctame aquí:"
   },
-  "CryptoAppType": {
-    "1": "Información"
+  "PorfolyAppType": {
+    "1": "Primer Portfolio"
   },
-  "CryptoAppTitle": {
-    "1": "Listado de criptomonedas"
+  "PortfolyAppTitle": {
+    "1": "Portfolio"
+  },
+  "MovieAppType": {
+    "1": "TMDB"
+  },
+  "MovieAppTitle": {
+    "1": "Películas"
+  },
+  "MarioAppType": {
+    "1": "Kaboom.js"
+  },
+  "MarioAppTitle": {
+    "1": "Super Mario Bros"
   }
 }

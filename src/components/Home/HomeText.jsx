@@ -24,7 +24,7 @@ const HomeText = () => {
             mt="-2"
             fontSize={{ sm: '6xl', md: '6xl', lg: '6xl' }}
           >
-            Nahuel Márquez
+            Fiamma Muscari
           </Text>
         </Text>
         <Text

@@ -28,7 +28,7 @@ const Addons = () => {
         >
           <UilLocationPoint />
         </span>
-        Piriápolis, Uruguay
+        Mar del Plata, Argentina
       </Text>
       <Text
         as="h3"

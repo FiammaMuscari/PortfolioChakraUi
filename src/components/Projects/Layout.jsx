@@ -3,12 +3,11 @@ import { Box } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
 import ProjectHeader from './ProjectHeader';
 import ProjectImage from './ProjectImage';
-import Technologies from './Technologies';
 
 const Layout = (props) => {
   const { t } = useTranslation();
   const {
-    appType, appTitle, appImage, codeLink, demoLink, techs,
+    appType, appTitle, appImage, codeLink, demoLink,
   } = props;
 
   return (
@@ -25,9 +24,6 @@ const Layout = (props) => {
           appTitle={t(appTitle.toString())}
           demoLink={t(demoLink.toString())}
         />
-        <Box display="flex">
-          <Technologies techs={techs} />
-        </Box>
       </Box>
     </>
   );

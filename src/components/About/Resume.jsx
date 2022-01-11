@@ -13,8 +13,8 @@ const Resume = () => {
       <a
         download={
           i18n.language === 'es'
-            ? 'NAHUEL MARQUEZ CV ES'
-            : 'NAHUEL MARQUEZ CV EN'
+            ? 'FIAMMA MUSCARI CV ES'
+            : 'FIAMMA MUSCARI CV EN'
         }
         href={i18n.language === 'es' ? ResumeES : ResumeEN}
         target="_blank"

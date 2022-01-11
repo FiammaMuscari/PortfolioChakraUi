@@ -1,36 +1,34 @@
 [
   {
-    "appType": "ToDoAppType.1",
-    "appTitle": "ToDoAppTitle.1",
-    "codeLink": "https://github.com/en44no/todo-app",
-    "demoLink": "https://todo-app-en44no.vercel.app/",
-    "appImage": "https://user-images.githubusercontent.com/57118285/138615565-0fcfc242-7bb2-4113-a07f-9e901d8c3826.png",
-    "techs": [
-      {
-        "name": "ReactJS",
-        "link": "https://es.reactjs.org/"
-      },
-      {
-        "name": "Chakra UI",
-        "link": "https://chakra-ui.com/"
-      }
-    ]
+    "appType": "PokeAppType.1",
+    "appTitle": "PokeAppTitle.1",
+    "codeLink": "https://github.com/FiammaMuscari/Pokedex",
+    "demoLink": "https://pokedex-rho-green.vercel.app",
+    "appImage": "https://user-images.githubusercontent.com/75777030/148839182-865c2e61-4379-4620-84b3-77fd476caf12.png"
+    
   },
   {
-    "appType": "CryptoAppType.1",
-    "appTitle": "CryptoAppTitle.1",
-    "codeLink": "https://github.com/en44no/list-cryptos",
-    "demoLink": "https://user-images.githubusercontent.com/57118285/139742834-a322f2a0-a26d-4b63-9dc3-eabe23559c97.jpeg",
-    "appImage": "https://user-images.githubusercontent.com/57118285/139742834-a322f2a0-a26d-4b63-9dc3-eabe23559c97.jpeg",
-    "techs": [
-      {
-        "name": "React Native",
-        "link": "https://reactnative.dev/"
-      },
-      {
-        "name": "CoinGecko API",
-        "link": "https://www.coingecko.com/es"
-      }
-    ]
+    "appType": "PorfolyAppType.1",
+    "appTitle": "PortfolyAppTitle.1",
+    "codeLink": "https://github.com/FiammaMuscari/portfolio",
+    "demoLink": "https://portfoli0-fiammamuscari.vercel.app",
+    "appImage": "https://user-images.githubusercontent.com/75777030/148840064-3b5552dc-eeb2-44c7-ae00-1b0fe71a97e8.png"
+    
+  },
+  {
+    "appType": "MovieAppType.1",
+    "appTitle": "MovieAppTitle.1",
+    "codeLink": "https://github.com/FiammaMuscari/MovieApp",
+    "demoLink": "https://wikipelis.vercel.app",
+    "appImage": "https://user-images.githubusercontent.com/75777030/148839486-0d3c2566-e5ca-4e45-939c-1092d533ead5.png"
+    
+  },
+  {
+    "appType": "MarioAppType.1",
+    "appTitle": "MarioAppTitle.1",
+    "codeLink": "https://github.com/FiammaMuscari/Mario90sGame",
+    "demoLink": "https://mario90sgame.vercel.app",
+    "appImage": "https://user-images.githubusercontent.com/75777030/148839530-0255f5fe-5bfb-44a0-86c5-114f2f28d306.png"
+    
   }
 ]

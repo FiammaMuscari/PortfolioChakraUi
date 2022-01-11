@@ -1,6 +1,6 @@
 import React from 'react';
 import { Flex, Image } from '@chakra-ui/react';
-import me from '../../assets/Nahuel_Marquez.webp';
+import me from '../../assets/Fiamma_Muscari.webp';
 
 const HomeImage = () => (
   <>
@@ -17,7 +17,7 @@ const HomeImage = () => (
           as="img"
           loading="lazy"
           src={me}
-          alt="me, Nahuel Marquez"
+          alt="me, Fiamma Muscari"
           borderRadius="9px"
           objectFit="fill"
           mt={{

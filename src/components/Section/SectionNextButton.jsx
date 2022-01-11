@@ -8,11 +8,13 @@ const SectionNextButton = (props) => {
   const [isLargerThan481] = useMediaQuery('(min-width: 481px)');
   const goToNextSection = () => {
     document
+      // eslint-disable-next-line react/destructuring-assignment
       .getElementById(props.section)
       .scrollIntoView({ behavior: 'smooth' });
   };
 
   const goToNextSectionMobile = () => {
+    // eslint-disable-next-line react/destructuring-assignment
     const el = document.getElementById(props.section);
     const y = el.getBoundingClientRect().top + window.pageYOffset + 50;
 

@@ -16,10 +16,9 @@ const Projects = () => {
       <SectionTemplate
         id="projects"
         title={t('MyProjects.1')}
-        subtitle={t('MyLastProjects.1')}
         sectionNextButton="skills"
       >
-        <Box>
+        <Box style={{ marginTop: '9rem' }}>
           <Flex
             justifyContent="center"
             flexWrap="wrap"
@@ -41,7 +40,6 @@ const Projects = () => {
                   codeLink={project.codeLink}
                   demoLink={project.demoLink}
                   appImage={project.appImage}
-                  techs={project.techs}
                 />
               </Box>
             ))}
@@ -56,7 +54,7 @@ const Projects = () => {
           }}
         >
           <a
-            href="https://github.com/en44no?tab=repositories"
+            href="https://github.com/FiammaMuscari"
             target="_blank"
             rel="noreferrer"
           >
@@ -66,6 +64,7 @@ const Projects = () => {
               leftIcon={<UilGithubAlt size="1.4rem" />}
               bg="#11BAE5"
               boxShadow="md"
+              style={{ marginBottom: '16rem' }}
             >
               {t('SeeMoreProjects.1')}
             </Button>
